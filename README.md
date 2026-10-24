@@ -102,4 +102,3 @@ A **Possible Solution / Reference Implementation** will be published after submi
 ## Solution
 
 Abstract Factory refactor with Stripe, Adyen and Mercado Pago families.
-Design explanation: [docs/design.pdf](docs/design.pdf).
