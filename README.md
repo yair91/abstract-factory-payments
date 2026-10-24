@@ -98,3 +98,8 @@ The pattern concept is language-agnostic; this starter uses Python only as the i
 Submit your team's **public GitHub repository URL** in Canvas.
 
 A **Possible Solution / Reference Implementation** will be published after submissions close.
+
+## Solution
+
+Abstract Factory refactor with Stripe, Adyen and Mercado Pago families.
+Design explanation: [docs/design.pdf](docs/design.pdf) (also in [DESIGN.md](DESIGN.md)).
